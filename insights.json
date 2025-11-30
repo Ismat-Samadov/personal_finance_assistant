@@ -1,0 +1,61 @@
+{
+  "price": {
+    "mean": 332.99776072658943,
+    "median": 250.4,
+    "min": 5.0,
+    "max": 6260.0,
+    "std": 305.8695314714641
+  },
+  "top_brands": {
+    "GUESS": 339,
+    "Diane von Furstenberg": 238,
+    "Marina Rinaldi": 236,
+    "Emporio Armani": 226,
+    "MAX&Co.": 221,
+    "Patrizia Pepe": 207,
+    "Stella McCartney": 179,
+    "Etro": 157,
+    "St. John": 155,
+    "Diesel": 153
+  },
+  "discount": {
+    "avg_discount": 41.47675334909378,
+    "products_with_discount": 6345,
+    "products_without_discount": 41,
+    "max_discount": 80.0
+  },
+  "top_categories": {
+    "dress": 1353,
+    "skirt": 903,
+    "pants": 637,
+    "trousers": 543,
+    "top": 533,
+    "jeans": 432,
+    "knitwear": 321,
+    "shirt": 192,
+    "jacket": 173,
+    "blouse": 119
+  },
+  "top_seasons": {
+    "2023-24": 914,
+    "2019-20": 620,
+    "2019": 610,
+    "2018-19": 513,
+    "2022-23": 453
+  },
+  "new_items": {
+    "new_count": 1139,
+    "old_count": 5247,
+    "new_percentage": 17.835891011587847
+  },
+  "variants": {
+    "avg_variants": 1.5725023488881928,
+    "max_variants": 10,
+    "products_with_multiple_variants": 2278
+  },
+  "savings": {
+    "total_potential_savings": 1336827.3,
+    "avg_savings": 216.25503109551906,
+    "products_with_savings": 6271
+  }
+}

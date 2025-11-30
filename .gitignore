@@ -4,7 +4,6 @@ test_scrape.py
 
 # Large data files
 *.csv
-*.json
 premium_outlet_products_*
 
 # Python cache

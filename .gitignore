@@ -1,0 +1,24 @@
+venv
+.claude
+test_scrape.py
+
+# Large data files
+*.csv
+*.json
+premium_outlet_products_*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
